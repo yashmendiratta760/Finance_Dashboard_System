@@ -1,0 +1,4 @@
+DB_URL={url}
+USERNAME={username}
+PASS={password}
+SECRET_KEY={32-bit secret key}
